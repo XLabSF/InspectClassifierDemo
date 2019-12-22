@@ -36,6 +36,6 @@ sampleImages:
   - name: Bactrocera cucurbitae (Coquillett)
     url: http://entnemdept.ufl.edu/creatures/fruit/tropical/bactrocera_cucurbitae01.jpg
   - name: Epilachna vigintioctopunctata
-    url:https://upload.wikimedia.org/wikipedia/commons/9/99/Henosepilachna_vigintioctopunctata.jpg
- name: eggplant (not in training data)
+    url: https://upload.wikimedia.org/wikipedia/commons/9/99/Henosepilachna_vigintioctopunctata.jpg
+  - name: eggplant (not in training data)
     url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Solanum_melongena_24_08_2012_%281%29.JPG/1280px-Solanum_melongena_24_08_2012_%281%29.JPG
